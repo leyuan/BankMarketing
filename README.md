@@ -1,3 +1,7 @@
+Add a new model for comparison Tensorflow Deep Wide.
+Add Gradient Boost.
+
+
 # BankMarketing
 Study of public dataset : http://archive.ics.uci.edu/ml/datasets/Bank%20Marketing
 
